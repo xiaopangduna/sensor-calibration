@@ -1,0 +1,163 @@
+absl-py @ file:///croot/absl-py_1714140470852/work
+actionlib==1.12.1
+aiohttp @ file:///croot/aiohttp_1715108769648/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+angles==1.9.12
+astor==0.8.1
+astunparse==1.6.3
+async-timeout @ file:///croot/async-timeout_1703096998144/work
+attrs @ file:///croot/attrs_1695717823297/work
+blinker @ file:///croot/blinker_1696539051175/work
+bondpy==1.8.5
+Brotli @ file:///croot/brotli-split_1714483155106/work
+cachetools @ file:///croot/cachetools_1713977085444/work
+camera_calibration_parsers==1.11.13
+catkin==0.7.29
+certifi @ file:///croot/certifi_1720453481653/work/certifi
+cffi @ file:///croot/cffi_1714483155441/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///croot/click_1698129812380/work
+coloredlogs==15.0.1
+contourpy==1.0.7
+controller_manager==0.18.4
+controller_manager_msgs==0.18.4
+cryptography @ file:///croot/cryptography_1714660666131/work
+cv_bridge==1.13.1
+cycler==0.11.0
+diagnostic_updater==1.9.7
+dynamic_reconfigure==1.6.5
+flatbuffers==22.11.23
+fonttools==4.39.2
+frozenlist @ file:///croot/frozenlist_1698702560391/work
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+gazebo_plugins==2.8.7
+gazebo_ros==2.8.7
+gencpp==0.6.6
+geneus==2.2.6
+genlisp==0.4.16
+genmsg==0.5.17
+gennodejs==2.0.1
+genpy==0.6.16
+google-auth @ file:///croot/google-auth_1715111149956/work
+google-auth-oauthlib @ file:///opt/conda/conda-bld/google-auth-oauthlib_1660687784486/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///croot/grpc-suite_1701982571719/work
+h5py @ file:///tmp/build/80754af9/h5py_1608649014695/work
+humanfriendly==10.0
+idna @ file:///croot/idna_1714398848350/work
+image_geometry==1.13.1
+imgviz==1.7.2
+importlib-metadata @ file:///croot/importlib_metadata-suite_1704813515092/work
+importlib-resources==5.12.0
+interactive-markers==1.11.5
+joblib==1.2.0
+jsk-recognition-utils==1.2.15
+jsk_rviz_plugins==2.1.8
+jsk_topic_tools==2.2.12
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.4.4
+labelme==5.1.1
+laser_geometry==1.6.7
+lxml @ file:///croot/lxml_1679646450407/work
+Markdown @ file:///croot/markdown_1671541909495/work
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.7.1
+message_filters==1.14.13
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+moveit-core==1.0.11
+moveit_commander==1.0.11
+moveit_ros_planning_interface==1.0.11
+moveit_ros_visualization==1.0.11
+mpmath==1.2.1
+multidict @ file:///croot/multidict_1701096859099/work
+natsort==8.3.1
+numpy==1.24.2
+oauthlib @ file:///croot/oauthlib_1679489621486/work
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
+Pillow==9.4.0
+ply==3.11
+powerline-status==2.7
+protobuf==3.20.3
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyJWT @ file:///croot/pyjwt_1715094751094/work
+pyOpenSSL @ file:///croot/pyopenssl_1708380408460/work
+pyparsing==3.0.9
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+PySide2==5.15.8
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.8.2
+python_qt_binding==0.4.4
+PyYAML==6.0
+qt-dotgraph==0.4.2
+qt-gui==0.4.2
+QtPy==2.3.0
+requests @ file:///croot/requests_1716902831423/work
+requests-oauthlib @ file:///croot/requests-oauthlib_1720615017878/work
+resource_retriever==1.12.7
+rosbag==1.14.13
+rosclean==1.14.9
+rosgraph==1.14.13
+roslaunch==1.14.13
+roslib==1.14.9
+roslz4==1.14.13
+rosmaster==1.14.13
+rosmsg==1.14.13
+rosnode==1.14.13
+rosparam==1.14.13
+rospy==1.14.13
+rosservice==1.14.13
+rostest==1.14.13
+rostopic==1.14.13
+rosunit==1.14.9
+roswtf==1.14.13
+rqt-reconfigure==0.5.4
+rqt_console==0.4.9
+rqt_graph==0.4.11
+rqt_gui==0.5.3
+rqt_gui_py==0.5.3
+rqt_logger_level==0.4.8
+rqt_py_common==0.5.3
+rqt_tf_tree==0.6.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+rviz==1.13.30
+scikit-learn==1.2.2
+scipy @ file:///croot/scipy_1717521478074/work/dist/scipy-1.13.1-cp39-cp39-linux_x86_64.whl#sha256=2cb3d1436f8762a53161486cb9493ccc305fc760e8f830f82888792cbaf99099
+sensor-msgs==1.12.8
+shiboken2==5.15.8
+sip @ file:///home/conda/feedstock_root/build_artifacts/sip_1675696584506/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0.post1
+smclib==1.8.5
+sound-play==0.3.15
+srdfdom==0.5.2
+sympy==1.11.1
+tensorboard @ file:///home/builder/mesters/opt/envs/tensorflow/conda-bld/tensorboard_1682445826165/work/tensorboard-2.12.1-py3-none-any.whl
+tensorboard-data-server @ file:///croot/tensorboard-data-server_1681498183723/work/tensorboard_data_server-0.7.0-py3-none-manylinux2014_x86_64.whl
+tensorboard-plugin-wit @ file:///home/builder/tkoch/workspace/tensorflow/tensorboard-plugin-wit_1658918494740/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorflow @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_cpu/tensorflow-base_1614360980945/work/tensorflow_pkg/tensorflow-2.4.1-cp39-cp39-linux_x86_64.whl
+tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
+termcolor==2.2.0
+tf==1.12.1
+tf2_geometry_msgs==0.6.5
+tf2_kdl==0.6.5
+tf2_py==0.6.5
+tf2_ros==0.6.5
+tf_conversions==1.12.1
+threadpoolctl==3.1.0
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+topic_tools==1.14.13
+urdfdom-py==0.4.6
+urllib3 @ file:///croot/urllib3_1718912636303/work
+Werkzeug @ file:///croot/werkzeug_1716533313107/work
+wrapt @ file:///tmp/abs_c335821b-6e43-4504-9816-b1a52d3d3e1eel6uae8l/croots/recipe/wrapt_1657814400492/work
+xacro==1.13.20
+yarl @ file:///croot/yarl_1701105127787/work
+zipp @ file:///croot/zipp_1704206909481/work
