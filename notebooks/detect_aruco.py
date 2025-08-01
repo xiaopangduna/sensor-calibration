@@ -7,7 +7,8 @@ from tqdm import tqdm
 
 
 # 设置参数
-image_folder = "/home/ubuntu/Desktop/project/2504_c50a_calibrator/dataset/250701_zhongshi_c50a_test_calib_board/2025-07-01"  # 替换为你的图片文件夹路径
+# image_folder = "/home/ubuntu/Desktop/project/2504_c50a_calibrator/dataset/250701_zhongshi_c50a_test_calib_board/2025-07-01"  # 替换为你的图片文件夹路径
+image_folder= "/home/ubuntu/Desktop/project/utils_python/tmp/2025-07-28-17-01-49/nuwa_1_rgb0_image"
 aruco_dict_type = cv2.aruco.DICT_4X4_50
 save_vis = True
 output_folder = os.path.join(image_folder, "output")

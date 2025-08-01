@@ -6,9 +6,9 @@ import cv2
 import os
 
 # 参数配置
-bag_path = "/home/ubuntu/Desktop/project/sensor-calibration/tmp/0708_tingwei_952/2025_07_08_tingwei_left.bag"
+bag_path = "/home/ubuntu/Desktop/project/2505_c50b_calibrator/datasets/250507_zhongshi_c50a_calibr/2025-05-07-16-57-04.bag"
 image_topic = '111' #"/ud_camera1/image_raw"
-save_dir = "/home/ubuntu/Desktop/project/sensor-calibration/tmp/0708_tingwei_952/2025_07_08_tingwei_left"
+save_dir = "/home/ubuntu/Desktop/project/2505_c50b_calibrator/datasets/250507_zhongshi_c50a_calibr/2025_05_07_16_57_04"
 os.makedirs(save_dir, exist_ok=True)
 
 # 类型解析器（针对 ROS1）
